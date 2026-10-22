@@ -1,0 +1,45 @@
+[0.906s] Invoking command in '/home/pau/Universidad/script2/src/g10_prii3_move_turtlebot': PYTHONPATH=/home/pau/Universidad/script2/build/g10_prii3_move_turtlebot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/g10_prii3_move_turtlebot build --build-base /home/pau/Universidad/script2/build/g10_prii3_move_turtlebot/build install --record /home/pau/Universidad/script2/build/g10_prii3_move_turtlebot/install.log --install-scripts $base/lib/g10_prii3_move_turtlebot --single-version-externally-managed install_data
+[1.275s] running egg_info
+[1.276s] creating ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info
+[1.276s] writing ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/PKG-INFO
+[1.276s] writing dependency_links to ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/dependency_links.txt
+[1.277s] writing entry points to ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/entry_points.txt
+[1.277s] writing requirements to ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/requires.txt
+[1.277s] writing top-level names to ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/top_level.txt
+[1.277s] writing manifest file '../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/SOURCES.txt'
+[1.279s] reading manifest file '../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/SOURCES.txt'
+[1.280s] writing manifest file '../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/SOURCES.txt'
+[1.280s] running build
+[1.281s] running build_py
+[1.281s] creating /home/pau/Universidad/script2/build/g10_prii3_move_turtlebot/build
+[1.281s] creating /home/pau/Universidad/script2/build/g10_prii3_move_turtlebot/build/lib
+[1.281s] creating /home/pau/Universidad/script2/build/g10_prii3_move_turtlebot/build/lib/g10_prii3_move_turtlebot
+[1.281s] copying g10_prii3_move_turtlebot/collision_avoidance.py -> /home/pau/Universidad/script2/build/g10_prii3_move_turtlebot/build/lib/g10_prii3_move_turtlebot
+[1.281s] copying g10_prii3_move_turtlebot/obstacle_avoidance.py -> /home/pau/Universidad/script2/build/g10_prii3_move_turtlebot/build/lib/g10_prii3_move_turtlebot
+[1.281s] copying g10_prii3_move_turtlebot/__init__.py -> /home/pau/Universidad/script2/build/g10_prii3_move_turtlebot/build/lib/g10_prii3_move_turtlebot
+[1.282s] copying g10_prii3_move_turtlebot/draw_number.py -> /home/pau/Universidad/script2/build/g10_prii3_move_turtlebot/build/lib/g10_prii3_move_turtlebot
+[1.282s] running install
+[1.282s] running install_lib
+[1.283s] creating /home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/lib/python3.10/site-packages/g10_prii3_move_turtlebot
+[1.283s] copying /home/pau/Universidad/script2/build/g10_prii3_move_turtlebot/build/lib/g10_prii3_move_turtlebot/collision_avoidance.py -> /home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/lib/python3.10/site-packages/g10_prii3_move_turtlebot
+[1.283s] copying /home/pau/Universidad/script2/build/g10_prii3_move_turtlebot/build/lib/g10_prii3_move_turtlebot/obstacle_avoidance.py -> /home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/lib/python3.10/site-packages/g10_prii3_move_turtlebot
+[1.283s] copying /home/pau/Universidad/script2/build/g10_prii3_move_turtlebot/build/lib/g10_prii3_move_turtlebot/__init__.py -> /home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/lib/python3.10/site-packages/g10_prii3_move_turtlebot
+[1.283s] copying /home/pau/Universidad/script2/build/g10_prii3_move_turtlebot/build/lib/g10_prii3_move_turtlebot/draw_number.py -> /home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/lib/python3.10/site-packages/g10_prii3_move_turtlebot
+[1.284s] byte-compiling /home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/lib/python3.10/site-packages/g10_prii3_move_turtlebot/collision_avoidance.py to collision_avoidance.cpython-310.pyc
+[1.285s] byte-compiling /home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/lib/python3.10/site-packages/g10_prii3_move_turtlebot/obstacle_avoidance.py to obstacle_avoidance.cpython-310.pyc
+[1.287s] byte-compiling /home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/lib/python3.10/site-packages/g10_prii3_move_turtlebot/__init__.py to __init__.cpython-310.pyc
+[1.287s] byte-compiling /home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/lib/python3.10/site-packages/g10_prii3_move_turtlebot/draw_number.py to draw_number.cpython-310.pyc
+[1.288s] running install_data
+[1.288s] creating /home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/share/ament_index
+[1.288s] creating /home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/share/ament_index/resource_index
+[1.288s] creating /home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/share/ament_index/resource_index/packages
+[1.288s] copying resource/g10_prii3_move_turtlebot -> /home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/share/ament_index/resource_index/packages
+[1.288s] copying package.xml -> /home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/share/g10_prii3_move_turtlebot
+[1.289s] running install_egg_info
+[1.291s] Copying ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info to /home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/lib/python3.10/site-packages/g10_prii3_move_turtlebot-0.0.0-py3.10.egg-info
+[1.292s] running install_scripts
+[1.317s] Installing collision_avoidance script to /home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/lib/g10_prii3_move_turtlebot
+[1.317s] Installing draw_number script to /home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/lib/g10_prii3_move_turtlebot
+[1.318s] Installing obstacle_avoidance script to /home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/lib/g10_prii3_move_turtlebot
+[1.318s] writing list of installed files to '/home/pau/Universidad/script2/build/g10_prii3_move_turtlebot/install.log'
+[1.348s] Invoked command in '/home/pau/Universidad/script2/src/g10_prii3_move_turtlebot' returned '0': PYTHONPATH=/home/pau/Universidad/script2/build/g10_prii3_move_turtlebot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pau/Universidad/script2/install/g10_prii3_move_turtlebot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/g10_prii3_move_turtlebot build --build-base /home/pau/Universidad/script2/build/g10_prii3_move_turtlebot/build install --record /home/pau/Universidad/script2/build/g10_prii3_move_turtlebot/install.log --install-scripts $base/lib/g10_prii3_move_turtlebot --single-version-externally-managed install_data
