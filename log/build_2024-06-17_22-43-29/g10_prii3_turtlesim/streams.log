@@ -1,0 +1,39 @@
+[4.648s] Invoking command in '/home/jetbot/Sprint1/src/g10_prii3_turtlesim': PYTHONPATH=/home/jetbot/Sprint1/build/g10_prii3_turtlesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/g10_prii3_turtlesim build --build-base /home/jetbot/Sprint1/build/g10_prii3_turtlesim/build install --record /home/jetbot/Sprint1/build/g10_prii3_turtlesim/install.log --single-version-externally-managed install_data
+[5.848s] running egg_info
+[5.850s] creating ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info
+[5.852s] writing ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/PKG-INFO
+[5.853s] writing dependency_links to ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/dependency_links.txt
+[5.854s] writing entry points to ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/entry_points.txt
+[5.854s] writing requirements to ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/requires.txt
+[5.855s] writing top-level names to ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/top_level.txt
+[5.863s] writing manifest file '../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/SOURCES.txt'
+[6.030s] reading manifest file '../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/SOURCES.txt'
+[6.034s] writing manifest file '../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/SOURCES.txt'
+[6.035s] running build
+[6.036s] running build_py
+[6.036s] creating /home/jetbot/Sprint1/build/g10_prii3_turtlesim/build
+[6.037s] creating /home/jetbot/Sprint1/build/g10_prii3_turtlesim/build/lib
+[6.037s] creating /home/jetbot/Sprint1/build/g10_prii3_turtlesim/build/lib/g10_prii3_turtlesim
+[6.038s] copying g10_prii3_turtlesim/__init__.py -> /home/jetbot/Sprint1/build/g10_prii3_turtlesim/build/lib/g10_prii3_turtlesim
+[6.038s] copying g10_prii3_turtlesim/turtle_controller.py -> /home/jetbot/Sprint1/build/g10_prii3_turtlesim/build/lib/g10_prii3_turtlesim
+[6.038s] running install
+[6.041s] running install_lib
+[6.046s] creating /home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages/g10_prii3_turtlesim
+[6.046s] copying /home/jetbot/Sprint1/build/g10_prii3_turtlesim/build/lib/g10_prii3_turtlesim/__init__.py -> /home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages/g10_prii3_turtlesim
+[6.047s] copying /home/jetbot/Sprint1/build/g10_prii3_turtlesim/build/lib/g10_prii3_turtlesim/turtle_controller.py -> /home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages/g10_prii3_turtlesim
+[6.049s] byte-compiling /home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages/g10_prii3_turtlesim/__init__.py to __init__.cpython-38.pyc
+[6.056s] byte-compiling /home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages/g10_prii3_turtlesim/turtle_controller.py to turtle_controller.cpython-38.pyc
+[6.060s] running install_data
+[6.062s] creating /home/jetbot/Sprint1/install/g10_prii3_turtlesim/share/ament_index
+[6.062s] creating /home/jetbot/Sprint1/install/g10_prii3_turtlesim/share/ament_index/resource_index
+[6.062s] creating /home/jetbot/Sprint1/install/g10_prii3_turtlesim/share/ament_index/resource_index/packages
+[6.063s] copying resource/g10_prii3_turtlesim -> /home/jetbot/Sprint1/install/g10_prii3_turtlesim/share/ament_index/resource_index/packages
+[6.064s] copying package.xml -> /home/jetbot/Sprint1/install/g10_prii3_turtlesim/share/g10_prii3_turtlesim
+[6.065s] creating /home/jetbot/Sprint1/install/g10_prii3_turtlesim/share/g10_prii3_turtlesim/launch
+[6.065s] copying launch/turtle.launch.py -> /home/jetbot/Sprint1/install/g10_prii3_turtlesim/share/g10_prii3_turtlesim/launch
+[6.066s] running install_egg_info
+[6.073s] Copying ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info to /home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages/g10_prii3_turtlesim-0.0.0-py3.8.egg-info
+[6.077s] running install_scripts
+[6.153s] Installing turtle_controller script to /home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/g10_prii3_turtlesim
+[6.154s] writing list of installed files to '/home/jetbot/Sprint1/build/g10_prii3_turtlesim/install.log'
+[6.273s] Invoked command in '/home/jetbot/Sprint1/src/g10_prii3_turtlesim' returned '0': PYTHONPATH=/home/jetbot/Sprint1/build/g10_prii3_turtlesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/g10_prii3_turtlesim build --build-base /home/jetbot/Sprint1/build/g10_prii3_turtlesim/build install --record /home/jetbot/Sprint1/build/g10_prii3_turtlesim/install.log --single-version-externally-managed install_data

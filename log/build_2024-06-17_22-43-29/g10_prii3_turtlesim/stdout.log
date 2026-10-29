@@ -1,0 +1,37 @@
+running egg_info
+creating ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info
+writing ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/PKG-INFO
+writing dependency_links to ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/dependency_links.txt
+writing entry points to ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/entry_points.txt
+writing requirements to ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/requires.txt
+writing top-level names to ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/top_level.txt
+writing manifest file '../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/SOURCES.txt'
+reading manifest file '../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/SOURCES.txt'
+writing manifest file '../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jetbot/Sprint1/build/g10_prii3_turtlesim/build
+creating /home/jetbot/Sprint1/build/g10_prii3_turtlesim/build/lib
+creating /home/jetbot/Sprint1/build/g10_prii3_turtlesim/build/lib/g10_prii3_turtlesim
+copying g10_prii3_turtlesim/__init__.py -> /home/jetbot/Sprint1/build/g10_prii3_turtlesim/build/lib/g10_prii3_turtlesim
+copying g10_prii3_turtlesim/turtle_controller.py -> /home/jetbot/Sprint1/build/g10_prii3_turtlesim/build/lib/g10_prii3_turtlesim
+running install
+running install_lib
+creating /home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages/g10_prii3_turtlesim
+copying /home/jetbot/Sprint1/build/g10_prii3_turtlesim/build/lib/g10_prii3_turtlesim/__init__.py -> /home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages/g10_prii3_turtlesim
+copying /home/jetbot/Sprint1/build/g10_prii3_turtlesim/build/lib/g10_prii3_turtlesim/turtle_controller.py -> /home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages/g10_prii3_turtlesim
+byte-compiling /home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages/g10_prii3_turtlesim/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages/g10_prii3_turtlesim/turtle_controller.py to turtle_controller.cpython-38.pyc
+running install_data
+creating /home/jetbot/Sprint1/install/g10_prii3_turtlesim/share/ament_index
+creating /home/jetbot/Sprint1/install/g10_prii3_turtlesim/share/ament_index/resource_index
+creating /home/jetbot/Sprint1/install/g10_prii3_turtlesim/share/ament_index/resource_index/packages
+copying resource/g10_prii3_turtlesim -> /home/jetbot/Sprint1/install/g10_prii3_turtlesim/share/ament_index/resource_index/packages
+copying package.xml -> /home/jetbot/Sprint1/install/g10_prii3_turtlesim/share/g10_prii3_turtlesim
+creating /home/jetbot/Sprint1/install/g10_prii3_turtlesim/share/g10_prii3_turtlesim/launch
+copying launch/turtle.launch.py -> /home/jetbot/Sprint1/install/g10_prii3_turtlesim/share/g10_prii3_turtlesim/launch
+running install_egg_info
+Copying ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info to /home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages/g10_prii3_turtlesim-0.0.0-py3.8.egg-info
+running install_scripts
+Installing turtle_controller script to /home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/g10_prii3_turtlesim
+writing list of installed files to '/home/jetbot/Sprint1/build/g10_prii3_turtlesim/install.log'

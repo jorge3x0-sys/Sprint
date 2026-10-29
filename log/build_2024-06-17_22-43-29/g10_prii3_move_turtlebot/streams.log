@@ -1,0 +1,45 @@
+[4.731s] Invoking command in '/home/jetbot/Sprint1/src/g10_prii3_move_turtlebot': PYTHONPATH=/home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/g10_prii3_move_turtlebot build --build-base /home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/build install --record /home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/install.log --single-version-externally-managed install_data
+[5.923s] running egg_info
+[5.925s] creating ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info
+[5.927s] writing ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/PKG-INFO
+[5.927s] writing dependency_links to ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/dependency_links.txt
+[5.928s] writing entry points to ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/entry_points.txt
+[5.929s] writing requirements to ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/requires.txt
+[5.929s] writing top-level names to ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/top_level.txt
+[5.938s] writing manifest file '../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/SOURCES.txt'
+[6.111s] reading manifest file '../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/SOURCES.txt'
+[6.116s] writing manifest file '../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/SOURCES.txt'
+[6.116s] running build
+[6.117s] running build_py
+[6.119s] creating /home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/build
+[6.119s] creating /home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/build/lib
+[6.119s] creating /home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/build/lib/g10_prii3_move_turtlebot
+[6.120s] copying g10_prii3_move_turtlebot/draw_number.py -> /home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/build/lib/g10_prii3_move_turtlebot
+[6.121s] copying g10_prii3_move_turtlebot/__init__.py -> /home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/build/lib/g10_prii3_move_turtlebot
+[6.122s] copying g10_prii3_move_turtlebot/obstacle_avoidance.py -> /home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/build/lib/g10_prii3_move_turtlebot
+[6.123s] copying g10_prii3_move_turtlebot/collision_avoidance.py -> /home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/build/lib/g10_prii3_move_turtlebot
+[6.123s] running install
+[6.127s] running install_lib
+[6.131s] creating /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages/g10_prii3_move_turtlebot
+[6.131s] copying /home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/build/lib/g10_prii3_move_turtlebot/draw_number.py -> /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages/g10_prii3_move_turtlebot
+[6.132s] copying /home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/build/lib/g10_prii3_move_turtlebot/__init__.py -> /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages/g10_prii3_move_turtlebot
+[6.132s] copying /home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/build/lib/g10_prii3_move_turtlebot/obstacle_avoidance.py -> /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages/g10_prii3_move_turtlebot
+[6.133s] copying /home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/build/lib/g10_prii3_move_turtlebot/collision_avoidance.py -> /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages/g10_prii3_move_turtlebot
+[6.135s] byte-compiling /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages/g10_prii3_move_turtlebot/draw_number.py to draw_number.cpython-38.pyc
+[6.144s] byte-compiling /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages/g10_prii3_move_turtlebot/__init__.py to __init__.cpython-38.pyc
+[6.145s] byte-compiling /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages/g10_prii3_move_turtlebot/obstacle_avoidance.py to obstacle_avoidance.cpython-38.pyc
+[6.148s] byte-compiling /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages/g10_prii3_move_turtlebot/collision_avoidance.py to collision_avoidance.cpython-38.pyc
+[6.152s] running install_data
+[6.153s] creating /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/share/ament_index
+[6.153s] creating /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/share/ament_index/resource_index
+[6.154s] creating /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/share/ament_index/resource_index/packages
+[6.155s] copying resource/g10_prii3_move_turtlebot -> /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/share/ament_index/resource_index/packages
+[6.155s] copying package.xml -> /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/share/g10_prii3_move_turtlebot
+[6.155s] running install_egg_info
+[6.162s] Copying ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info to /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages/g10_prii3_move_turtlebot-0.0.0-py3.8.egg-info
+[6.166s] running install_scripts
+[6.245s] Installing collision_avoidance script to /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/g10_prii3_move_turtlebot
+[6.247s] Installing draw_number script to /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/g10_prii3_move_turtlebot
+[6.247s] Installing obstacle_avoidance script to /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/g10_prii3_move_turtlebot
+[6.248s] writing list of installed files to '/home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/install.log'
+[6.391s] Invoked command in '/home/jetbot/Sprint1/src/g10_prii3_move_turtlebot' returned '0': PYTHONPATH=/home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/g10_prii3_move_turtlebot build --build-base /home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/build install --record /home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/install.log --single-version-externally-managed install_data

@@ -1,0 +1,122 @@
+[0.000000] (-) TimerEvent: {}
+[0.002937] (g10_prii3_move_turtlebot) JobQueued: {'identifier': 'g10_prii3_move_turtlebot', 'dependencies': OrderedDict()}
+[0.003208] (g10_prii3_turtlesim) JobQueued: {'identifier': 'g10_prii3_turtlesim', 'dependencies': OrderedDict()}
+[0.003430] (g10_prii3_move_turtlebot) JobStarted: {'identifier': 'g10_prii3_move_turtlebot'}
+[0.060985] (g10_prii3_turtlesim) JobStarted: {'identifier': 'g10_prii3_turtlesim'}
+[0.099396] (-) TimerEvent: {}
+[0.200672] (-) TimerEvent: {}
+[0.301817] (-) TimerEvent: {}
+[0.402564] (-) TimerEvent: {}
+[0.503280] (-) TimerEvent: {}
+[0.603999] (-) TimerEvent: {}
+[0.704714] (-) TimerEvent: {}
+[0.805402] (-) TimerEvent: {}
+[0.906098] (-) TimerEvent: {}
+[1.006779] (-) TimerEvent: {}
+[1.107463] (-) TimerEvent: {}
+[1.208163] (-) TimerEvent: {}
+[1.308894] (-) TimerEvent: {}
+[1.409739] (-) TimerEvent: {}
+[1.510586] (-) TimerEvent: {}
+[1.611223] (-) TimerEvent: {}
+[1.711936] (-) TimerEvent: {}
+[1.812645] (-) TimerEvent: {}
+[1.913340] (-) TimerEvent: {}
+[2.013967] (-) TimerEvent: {}
+[2.114649] (-) TimerEvent: {}
+[2.215423] (-) TimerEvent: {}
+[2.316098] (-) TimerEvent: {}
+[2.416941] (-) TimerEvent: {}
+[2.517587] (-) TimerEvent: {}
+[2.621872] (-) TimerEvent: {}
+[2.723283] (-) TimerEvent: {}
+[2.824002] (-) TimerEvent: {}
+[2.924777] (-) TimerEvent: {}
+[3.025503] (-) TimerEvent: {}
+[3.127442] (-) TimerEvent: {}
+[3.228105] (-) TimerEvent: {}
+[3.328750] (-) TimerEvent: {}
+[3.429376] (-) TimerEvent: {}
+[3.530011] (-) TimerEvent: {}
+[3.630677] (-) TimerEvent: {}
+[3.731388] (-) TimerEvent: {}
+[3.832096] (-) TimerEvent: {}
+[3.932755] (-) TimerEvent: {}
+[4.033507] (-) TimerEvent: {}
+[4.134396] (-) TimerEvent: {}
+[4.235069] (-) TimerEvent: {}
+[4.335804] (-) TimerEvent: {}
+[4.436531] (-) TimerEvent: {}
+[4.537186] (-) TimerEvent: {}
+[4.638004] (-) TimerEvent: {}
+[4.738864] (-) TimerEvent: {}
+[4.773417] (g10_prii3_turtlesim) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/g10_prii3_turtlesim', 'build', '--build-base', '/home/jetbot/Sprint1/build/g10_prii3_turtlesim/build', 'install', '--record', '/home/jetbot/Sprint1/build/g10_prii3_turtlesim/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/jetbot/Sprint1/src/g10_prii3_turtlesim', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'es_ES', 'USER': 'jetbot', 'XDG_SEAT': 'seat0', 'SSH_AGENT_PID': '5777', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/jetbot/jetbot_ws/install/gscam/lib:/home/jetbot/ros2_ws/install/image_geometry/lib:/home/jetbot/ros2_ws/install/gscam/lib:/home/jetbot/ros2_ws/install/cv_bridge/lib:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib', 'HOME': '/home/jetbot', 'OLDPWD': '/home/jetbot', 'DESKTOP_SESSION': 'xubuntu', 'ROS_PYTHON_VERSION': '3', 'XDG_SEAT_PATH': '/org/freedesktop/DisplayManager/Seat0', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', '_colcon_cd_root': '/opt/ros/foxy/', 'QT_QPA_PLATFORMTHEME': 'gtk2', 'COLCON_PREFIX_PATH': '/home/jetbot/Sprint1/install:/home/jetbot/jetbot_ws/install:/home/jetbot/ros2_ws/install', 'ROS_DISTRO': 'foxy', 'LOGNAME': 'jetbot', 'WINDOWID': '65015227', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'CLUTTER_BACKEND': 'x11', 'TERM': 'xterm-256color', 'GTK_OVERLAY_SCROLLING': '0', 'XDG_SESSION_ID': 'c1', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/foxy/bin:/home/jetbot/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'SESSION_MANAGER': 'local/jetbot2:@/tmp/.ICE-unix/5603,unix/jetbot2:/tmp/.ICE-unix/5603', 'GDM_LANG': 'es_ES', 'XDG_SESSION_PATH': '/org/freedesktop/DisplayManager/Session0', 'XDG_MENU_PREFIX': 'xfce-', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0.0', 'LANG': 'es_ES.UTF-8', 'XDG_CURRENT_DESKTOP': 'XFCE', 'XDG_SESSION_DESKTOP': 'xubuntu', 'XAUTHORITY': '/home/jetbot/.Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'ROS_DOMAIN_ID': '1', 'XDG_GREETER_DATA_DIR': '/var/lib/lightdm-data/jetbot', 'AMENT_PREFIX_PATH': '/home/jetbot/Sprint1/install/g10_prii3_turtlesim:/home/jetbot/Sprint1/install/g10_prii3_move_turtlebot:/home/jetbot/jetbot_ws/install/sprint5_eurobot:/home/jetbot/jetbot_ws/install/prii3:/home/jetbot/jetbot_ws/install/jetbot_pro_ros2:/home/jetbot/jetbot_ws/install/gscam:/home/jetbot/ros2_ws/install/vision_opencv:/home/jetbot/ros2_ws/install/opencv_tests:/home/jetbot/ros2_ws/install/nav_ros2:/home/jetbot/ros2_ws/install/jetbot_pro_ros2:/home/jetbot/ros2_ws/install/jetbot_pro:/home/jetbot/ros2_ws/install/image_geometry:/home/jetbot/ros2_ws/install/gscam:/home/jetbot/ros2_ws/install/cv_bridge:/opt/ros/foxy', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'xubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'XDG_VTNR': '7', 'PWD': '/home/jetbot/Sprint1/build/g10_prii3_turtlesim', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-xubuntu:/etc/xdg:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share', 'PYTHONPATH': '/home/jetbot/Sprint1/build/g10_prii3_turtlesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages:/home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages:/home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages:/home/jetbot/jetbot_ws/build/sprint5_eurobot:/home/jetbot/jetbot_ws/install/sprint5_eurobot/lib/python3.8/site-packages:/home/jetbot/jetbot_ws/install/prii3/lib/python3.8/site-packages:/home/jetbot/ros2_ws/install/opencv_tests/lib/python3.8/site-packages:/home/jetbot/ros2_ws/install/image_geometry/lib/python3.8/site-packages:/home/jetbot/ros2_ws/install/cv_bridge/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'COLCON': '1', 'VTE_VERSION': '6003', 'CMAKE_PREFIX_PATH': '/home/jetbot/jetbot_ws/install/jetbot_pro_ros2:/home/jetbot/jetbot_ws/install/gscam:/home/jetbot/ros2_ws/install/vision_opencv:/home/jetbot/ros2_ws/install/nav_ros2:/home/jetbot/ros2_ws/install/jetbot_pro_ros2:/home/jetbot/ros2_ws/install/jetbot_pro:/home/jetbot/ros2_ws/install/image_geometry:/home/jetbot/ros2_ws/install/gscam:/home/jetbot/ros2_ws/install/cv_bridge'}, 'shell': False}
+[4.805266] (g10_prii3_move_turtlebot) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/g10_prii3_move_turtlebot', 'build', '--build-base', '/home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/build', 'install', '--record', '/home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/jetbot/Sprint1/src/g10_prii3_move_turtlebot', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'es_ES', 'USER': 'jetbot', 'XDG_SEAT': 'seat0', 'SSH_AGENT_PID': '5777', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/jetbot/jetbot_ws/install/gscam/lib:/home/jetbot/ros2_ws/install/image_geometry/lib:/home/jetbot/ros2_ws/install/gscam/lib:/home/jetbot/ros2_ws/install/cv_bridge/lib:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib', 'HOME': '/home/jetbot', 'OLDPWD': '/home/jetbot', 'DESKTOP_SESSION': 'xubuntu', 'ROS_PYTHON_VERSION': '3', 'XDG_SEAT_PATH': '/org/freedesktop/DisplayManager/Seat0', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', '_colcon_cd_root': '/opt/ros/foxy/', 'QT_QPA_PLATFORMTHEME': 'gtk2', 'COLCON_PREFIX_PATH': '/home/jetbot/Sprint1/install:/home/jetbot/jetbot_ws/install:/home/jetbot/ros2_ws/install', 'ROS_DISTRO': 'foxy', 'LOGNAME': 'jetbot', 'WINDOWID': '65015227', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'CLUTTER_BACKEND': 'x11', 'TERM': 'xterm-256color', 'GTK_OVERLAY_SCROLLING': '0', 'XDG_SESSION_ID': 'c1', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/foxy/bin:/home/jetbot/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'SESSION_MANAGER': 'local/jetbot2:@/tmp/.ICE-unix/5603,unix/jetbot2:/tmp/.ICE-unix/5603', 'GDM_LANG': 'es_ES', 'XDG_SESSION_PATH': '/org/freedesktop/DisplayManager/Session0', 'XDG_MENU_PREFIX': 'xfce-', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0.0', 'LANG': 'es_ES.UTF-8', 'XDG_CURRENT_DESKTOP': 'XFCE', 'XDG_SESSION_DESKTOP': 'xubuntu', 'XAUTHORITY': '/home/jetbot/.Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'ROS_DOMAIN_ID': '1', 'XDG_GREETER_DATA_DIR': '/var/lib/lightdm-data/jetbot', 'AMENT_PREFIX_PATH': '/home/jetbot/Sprint1/install/g10_prii3_turtlesim:/home/jetbot/Sprint1/install/g10_prii3_move_turtlebot:/home/jetbot/jetbot_ws/install/sprint5_eurobot:/home/jetbot/jetbot_ws/install/prii3:/home/jetbot/jetbot_ws/install/jetbot_pro_ros2:/home/jetbot/jetbot_ws/install/gscam:/home/jetbot/ros2_ws/install/vision_opencv:/home/jetbot/ros2_ws/install/opencv_tests:/home/jetbot/ros2_ws/install/nav_ros2:/home/jetbot/ros2_ws/install/jetbot_pro_ros2:/home/jetbot/ros2_ws/install/jetbot_pro:/home/jetbot/ros2_ws/install/image_geometry:/home/jetbot/ros2_ws/install/gscam:/home/jetbot/ros2_ws/install/cv_bridge:/opt/ros/foxy', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'xubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'XDG_VTNR': '7', 'PWD': '/home/jetbot/Sprint1/build/g10_prii3_move_turtlebot', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-xubuntu:/etc/xdg:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share', 'PYTHONPATH': '/home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages:/home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages:/home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages:/home/jetbot/jetbot_ws/build/sprint5_eurobot:/home/jetbot/jetbot_ws/install/sprint5_eurobot/lib/python3.8/site-packages:/home/jetbot/jetbot_ws/install/prii3/lib/python3.8/site-packages:/home/jetbot/ros2_ws/install/opencv_tests/lib/python3.8/site-packages:/home/jetbot/ros2_ws/install/image_geometry/lib/python3.8/site-packages:/home/jetbot/ros2_ws/install/cv_bridge/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'COLCON': '1', 'VTE_VERSION': '6003', 'CMAKE_PREFIX_PATH': '/home/jetbot/jetbot_ws/install/jetbot_pro_ros2:/home/jetbot/jetbot_ws/install/gscam:/home/jetbot/ros2_ws/install/vision_opencv:/home/jetbot/ros2_ws/install/nav_ros2:/home/jetbot/ros2_ws/install/jetbot_pro_ros2:/home/jetbot/ros2_ws/install/jetbot_pro:/home/jetbot/ros2_ws/install/image_geometry:/home/jetbot/ros2_ws/install/gscam:/home/jetbot/ros2_ws/install/cv_bridge'}, 'shell': False}
+[4.839129] (-) TimerEvent: {}
+[4.939906] (-) TimerEvent: {}
+[5.040661] (-) TimerEvent: {}
+[5.141339] (-) TimerEvent: {}
+[5.242045] (-) TimerEvent: {}
+[5.342746] (-) TimerEvent: {}
+[5.443483] (-) TimerEvent: {}
+[5.544189] (-) TimerEvent: {}
+[5.644861] (-) TimerEvent: {}
+[5.745488] (-) TimerEvent: {}
+[5.846193] (-) TimerEvent: {}
+[5.946892] (-) TimerEvent: {}
+[6.012804] (g10_prii3_turtlesim) StdoutLine: {'line': b'running egg_info\n'}
+[6.017055] (g10_prii3_turtlesim) StdoutLine: {'line': b'writing ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/PKG-INFO\n'}
+[6.017860] (g10_prii3_turtlesim) StdoutLine: {'line': b'writing dependency_links to ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/dependency_links.txt\n'}
+[6.018434] (g10_prii3_turtlesim) StdoutLine: {'line': b'writing entry points to ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/entry_points.txt\n'}
+[6.018967] (g10_prii3_turtlesim) StdoutLine: {'line': b'writing requirements to ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/requires.txt\n'}
+[6.019510] (g10_prii3_turtlesim) StdoutLine: {'line': b'writing top-level names to ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/top_level.txt\n'}
+[6.036983] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'running egg_info\n'}
+[6.040358] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'writing ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/PKG-INFO\n'}
+[6.041477] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'writing dependency_links to ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/dependency_links.txt\n'}
+[6.042404] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'writing entry points to ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/entry_points.txt\n'}
+[6.043040] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'writing requirements to ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/requires.txt\n'}
+[6.043635] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'writing top-level names to ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/top_level.txt\n'}
+[6.047014] (-) TimerEvent: {}
+[6.147696] (-) TimerEvent: {}
+[6.202894] (g10_prii3_turtlesim) StdoutLine: {'line': b"reading manifest file '../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/SOURCES.txt'\n"}
+[6.206709] (g10_prii3_turtlesim) StdoutLine: {'line': b"writing manifest file '../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info/SOURCES.txt'\n"}
+[6.208252] (g10_prii3_turtlesim) StdoutLine: {'line': b'running build\n'}
+[6.208841] (g10_prii3_turtlesim) StdoutLine: {'line': b'running build_py\n'}
+[6.209338] (g10_prii3_turtlesim) StdoutLine: {'line': b'running install\n'}
+[6.212550] (g10_prii3_turtlesim) StdoutLine: {'line': b'running install_lib\n'}
+[6.219091] (g10_prii3_turtlesim) StdoutLine: {'line': b'byte-compiling /home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages/g10_prii3_turtlesim/__init__.py to __init__.cpython-38.pyc\n'}
+[6.223308] (g10_prii3_move_turtlebot) StdoutLine: {'line': b"reading manifest file '../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/SOURCES.txt'\n"}
+[6.224232] (g10_prii3_turtlesim) StdoutLine: {'line': b'byte-compiling /home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages/g10_prii3_turtlesim/turtle_controller.py to turtle_controller.cpython-38.pyc\n'}
+[6.227406] (g10_prii3_move_turtlebot) StdoutLine: {'line': b"writing manifest file '../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info/SOURCES.txt'\n"}
+[6.228174] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'running build\n'}
+[6.228851] (g10_prii3_turtlesim) StdoutLine: {'line': b'running install_data\n'}
+[6.229307] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'running build_py\n'}
+[6.229813] (g10_prii3_turtlesim) StdoutLine: {'line': b'running install_egg_info\n'}
+[6.230256] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'running install\n'}
+[6.233208] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'running install_lib\n'}
+[6.236218] (g10_prii3_turtlesim) StdoutLine: {'line': b"removing '/home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages/g10_prii3_turtlesim-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[6.237662] (g10_prii3_turtlesim) StdoutLine: {'line': b'Copying ../../build/g10_prii3_turtlesim/g10_prii3_turtlesim.egg-info to /home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/python3.8/site-packages/g10_prii3_turtlesim-0.0.0-py3.8.egg-info\n'}
+[6.240176] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'byte-compiling /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages/g10_prii3_move_turtlebot/draw_number.py to draw_number.cpython-38.pyc\n'}
+[6.241544] (g10_prii3_turtlesim) StdoutLine: {'line': b'running install_scripts\n'}
+[6.247839] (-) TimerEvent: {}
+[6.248803] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'byte-compiling /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages/g10_prii3_move_turtlebot/__init__.py to __init__.cpython-38.pyc\n'}
+[6.249544] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'byte-compiling /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages/g10_prii3_move_turtlebot/obstacle_avoidance.py to obstacle_avoidance.cpython-38.pyc\n'}
+[6.253678] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'byte-compiling /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages/g10_prii3_move_turtlebot/collision_avoidance.py to collision_avoidance.cpython-38.pyc\n'}
+[6.257540] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'running install_data\n'}
+[6.258290] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'running install_egg_info\n'}
+[6.265790] (g10_prii3_move_turtlebot) StdoutLine: {'line': b"removing '/home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages/g10_prii3_move_turtlebot-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[6.267233] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'Copying ../../build/g10_prii3_move_turtlebot/g10_prii3_move_turtlebot.egg-info to /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/python3.8/site-packages/g10_prii3_move_turtlebot-0.0.0-py3.8.egg-info\n'}
+[6.271377] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'running install_scripts\n'}
+[6.319458] (g10_prii3_turtlesim) StdoutLine: {'line': b'Installing turtle_controller script to /home/jetbot/Sprint1/install/g10_prii3_turtlesim/lib/g10_prii3_turtlesim\n'}
+[6.321456] (g10_prii3_turtlesim) StdoutLine: {'line': b"writing list of installed files to '/home/jetbot/Sprint1/build/g10_prii3_turtlesim/install.log'\n"}
+[6.348071] (-) TimerEvent: {}
+[6.351048] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'Installing collision_avoidance script to /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/g10_prii3_move_turtlebot\n'}
+[6.351841] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'Installing draw_number script to /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/g10_prii3_move_turtlebot\n'}
+[6.352689] (g10_prii3_move_turtlebot) StdoutLine: {'line': b'Installing obstacle_avoidance script to /home/jetbot/Sprint1/install/g10_prii3_move_turtlebot/lib/g10_prii3_move_turtlebot\n'}
+[6.354119] (g10_prii3_move_turtlebot) StdoutLine: {'line': b"writing list of installed files to '/home/jetbot/Sprint1/build/g10_prii3_move_turtlebot/install.log'\n"}
+[6.446818] (g10_prii3_turtlesim) CommandEnded: {'returncode': 0}
+[6.448700] (-) TimerEvent: {}
+[6.505668] (g10_prii3_turtlesim) JobEnded: {'identifier': 'g10_prii3_turtlesim', 'rc': 0}
+[6.511441] (g10_prii3_move_turtlebot) CommandEnded: {'returncode': 0}
+[6.538967] (g10_prii3_move_turtlebot) JobEnded: {'identifier': 'g10_prii3_move_turtlebot', 'rc': 0}
+[6.542056] (-) EventReactorShutdown: {}

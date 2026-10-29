@@ -1,0 +1,3 @@
+[console_scripts]
+turtle_controller = g10_prii3_turtlesim.turtle_controller:main
+
