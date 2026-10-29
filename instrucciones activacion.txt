@@ -1,0 +1,19 @@
+En nuevo ordenador:
+	1- cd ~localizacion/script1
+	2- colcon build
+	2.1 (variante)- colcon build --packages-select g10_prri3_move_turtlebot
+	3- source install/setup.bash
+	4- ros2 launch g10_prii3_move_turtlebot draw_number_launch.py
+
+Metodo por separado (en varias terminales):
+	4.1.1- Export TURTLEBOT3_MODEL = burger
+	4.1.2- ros2 launsh turtlebot3_gazebo empty_world.launch.py
+	4.2.1- cd ~/Universidad/script2
+	4.2.2- source install/setup.bash
+	4.2.3- ros2 run g10_prii3_move_turtlebot draw_number
+	Opcional- ros2 run g10_prii3_move_turtlebot collision_avoidance
+
+Ejeciciones:
+	Detener: ros service call /control_dibujo std_srvs/srv/SetBool "{data: true}"
+	Reanudar: ros service call /control_dibujo std_srvs/srv/SetBool "{data: false}"
+	Reiniciar: ros service call /control_dibujo std_srvs/srv/SetBool "{data: false}"
